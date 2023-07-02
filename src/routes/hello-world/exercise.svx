@@ -1,0 +1,18 @@
+---
+title: Hello World
+description: Traditional first exercise
+date: '2023-6-27'
+categories:
+  - basics
+published: true
+---
+# Hello World
+
+Hey! 👋
+
+We're gonna start off by saying "Hello, World!" using Python, a traditional - if uninteresting - first exercise in programming.
+
+Here's the code!
+```python
+print("Hello, World!")
+```
